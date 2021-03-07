@@ -1,0 +1,7 @@
+.social-post {
+    margin: 1rem 0;
+    position: relative;
+    padding: 1rem;
+    background: hsl(300, 1%, 61%);
+    color: rgb(0, 0, 0);
+  }
