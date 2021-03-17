@@ -9,12 +9,16 @@ import CustomIncrement from "./state/custom-increment";
 import MusicalButton from "./dependencies/musical-button";
 import ConfettiDemo from "./dependencies/confetti-demo";
 import Todos from "./arrays/todos";
+import RandomDogs from "./random-dogs";
+
 
 function DemosPage(){
     return <main>
     
       <h1>My First React App!</h1>
 
+      <h2>Random Dogs</h2>
+      <RandomDogs />
       <h2>Rendering Arrays</h2>
         <Todos />
 
