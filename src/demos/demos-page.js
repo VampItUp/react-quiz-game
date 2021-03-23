@@ -18,7 +18,7 @@ function DemosPage(){
       <h1>My First React App!</h1>
 
       <h2>Random Dogs</h2>
-      <RandomDogs />
+      {/* <RandomDogs /> */}
       <h2>Rendering Arrays</h2>
         <Todos />
 
